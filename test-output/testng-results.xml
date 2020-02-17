@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11120" started-at="2020-02-17T04:36:11Z" finished-at="2020-02-17T04:36:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11120" started-at="2020-02-17T04:36:11Z" finished-at="2020-02-17T04:36:22Z">
+      <class name="testcase.TitleTest">
+        <test-method status="PASS" signature="saveDraft()[pri:0, instance:testcase.TitleTest@1593948d]" name="saveDraft" duration-ms="11089" started-at="2020-02-17T04:36:11Z" finished-at="2020-02-17T04:36:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveDraft -->
+      </class> <!-- testcase.TitleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
